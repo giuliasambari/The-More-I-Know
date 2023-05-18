@@ -1834,25 +1834,11 @@ img {
   );
 }
 
-#tameimpalaep {
+
+.center-text {
   text-align: center;
 }
 
-#innerspeaker {
-  text-align: center;
-}
-
-#lonerism {
-  text-align: center;
-}
-
-#currents {
-  text-align: center;
-}
-
-#theslowrush {
-  text-align: center;
-}
 
 .box-redirect{
   position: relative;
